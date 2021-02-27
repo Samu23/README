@@ -21,6 +21,10 @@ anonphisher tool is made with pure bash script and needs required packages for i
 ```
 AnonyminHack5 
 ```
+# Video
+<h2 align="center">
+<img src="https://github.com/Samu23/README/blob/main/an.gif"/>
+</h2>
 
 # Tested on
 This tool has been tested on the following systems:
