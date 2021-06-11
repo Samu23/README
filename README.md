@@ -1,7 +1,7 @@
 # README
 
 <p align="center">
-Automated phishing tool made by AnonyminHack5 to phish various sites with 30+ templates and also has an inbuilt ngrok already to easily help you generate your link and send it to your victim. 
+Automated phishing tool made by AnonyminHack5 to phish various sites with 50+ templates and also has an inbuilt ngrok already to easily help you generate your link and send it to your victim. 
 
 anonphisher tool is made with pure bash script and needs required packages for it to work. 
 </p>
@@ -9,7 +9,7 @@ anonphisher tool is made with pure bash script and needs required packages for i
 <h2 align="center">
 <img src="https://img.shields.io/badge/Author-AnonyminHack5-brightgreen"/>
 <img src="https://img.shields.io/badge/Tool%20name-Anonphisher-lightgrey"/>
-<img src="https://img.shields.io/badge/Version-1.0-red"/>
+<img src="https://img.shields.io/badge/Version-3.1-red"/>
 </h2>
 
 
